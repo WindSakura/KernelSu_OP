@@ -1,4 +1,4 @@
-KERNEL_SOURCE=https://github.com/OnePlus-11-Development/kernel_platform_msm-kernel
+KERNEL_SOURCE=https://github.com/OnePlus-11-Development/kernel_platform_msm-kernel.git
 KERNEL_SOURCE_BRANCH=lineage-20
 KERNEL_CONFIG=gki_defconfig
 KERNEL_IMAGE_NAME=Image.gz
